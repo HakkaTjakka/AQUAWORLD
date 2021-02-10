@@ -1,6 +1,8 @@
 # AQUAWORLD
 Minecraft 1.12.2
 
+Some region files seems to be missing. Will generate mazeworld soon again then update....
+
 ***
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/AQUAWORLD/blob/main/Untitled.jpg)](https://www.youtube.com/embed/ec3Z_iEoSNw)
 (Click to play vid)

@@ -1,6 +1,8 @@
 # AQUAWORLD
 Minecraft 1.12.2
 
+(When you want to create aquaworld yourself: https://github.com/HakkaTjakka/CREATE-MINECRAFT-1.12.2-AQUAWORLD-YOURSELF )
+
 Some region files seems to be missing. Will generate mazeworld soon again then update....
 Play with 1.14.4+ for cascade multiple command command blocks on bedrock floor. Start of blocks are in center of region file (region x * 512 + 256, 1, region z * 512 + 256)
 

@@ -15,7 +15,7 @@ set filename=r.!number_x!.!number_y!.mca
 
 if exist !filename! (
 	echo|set /p="1"
-rem	echt filename
+rem	echo filename
 ) else (
 	echo|set /p="0"
 )

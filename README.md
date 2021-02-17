@@ -27,5 +27,15 @@ Play with 1.14.4+ for cascade multiple command command blocks on bedrock floor. 
 [![Demo CountPages alpha](https://github.com/HakkaTjakka/AQUAWORLD/blob/main/Untitled3.jpg)](https://www.youtube.com/embed/w0P11M29Mx8)
 (Click to play vid)
 ***
+[![Demo CountPages alpha](https://i9.ytimg.com/vi/Qu_QxBuRisE/mq2.jpg?sqp=CLSqs4EG&rs=AOn4CLBcQVbi7a43My_TyaKHS9yq66yWyA)](https://www.youtube.com/embed/Qu_QxBuRisE)
+(Click to play vid)
+***
+[![Demo CountPages alpha](https://i9.ytimg.com/vi/-VzM76IwyLU/mq2.jpg?sqp=CLSqs4EG&rs=AOn4CLAWeZ6gkDCpAezPWWPfu2bMgtbbSA)](https://www.youtube.com/embed/-VzM76IwyLU)
+(Click to play vid)
+***
+[![Demo CountPages alpha](https://i9.ytimg.com/vi/Kg_ousqJ2DQ/mq1.jpg?sqp=CIyvs4EG&rs=AOn4CLCeg0-BnxT_GjD7j_HhwDtjpUNCrQ)](https://www.youtube.com/embed/Kg_ousqJ2DQ)
+(Click to play vid)
+***
+
 
 https://drive.google.com/drive/u/0/folders/1RuIClj5k9hI7i3NJv5cLOhdohfn4S9tR
